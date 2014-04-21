@@ -1,1 +1,6 @@
 .DS_Store
+/JobScheduleTester/nbproject/private/
+/JobScheduleTester/build/
+/enumTest/nbproject/private/
+/enumTest/build/
+/JobScheduleTester/dist/
